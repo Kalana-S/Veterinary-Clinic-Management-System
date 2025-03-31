@@ -1,0 +1,7 @@
+# Ignore NetBeans project-specific files
+nbproject/private/
+build/
+dist/
+target/
+*.class
+*.war
