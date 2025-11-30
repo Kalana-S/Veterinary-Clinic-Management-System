@@ -41,7 +41,7 @@ The **Veterinary Clinic Management System** is a web-based application designed 
 ## 📌 Installation & Setup
 
 ### **Database Setup**
-1. Import the provided **SQL file** into MySQL using **MySQL Workbench** or the **command line**.
+1. Import the provided **SQL file** into **MySQL** using **MySQL Workbench** or the **command line**.
 2. The database file is located in the **'database/'** folder:
    'database/veterinary_clinic.sql'
 3. Use the following MySQL command to import:
